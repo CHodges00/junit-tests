@@ -6,6 +6,9 @@ public class Student {
     String name;
     ArrayList<Integer> Grades = new ArrayList<>();
 
+
+
+
     public Student(long id, String name) {
         this.id = id;
         this.name = name;
